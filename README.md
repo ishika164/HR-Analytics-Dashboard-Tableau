@@ -47,7 +47,7 @@ This dashboard enables HR teams to make **data-driven decisions** to improve emp
 ---
 
 ## 📌 Project Level  
-Beginner–Intermediate 
+- Beginner–Intermediate 
 ---
 
 ## 📬 Contact  
