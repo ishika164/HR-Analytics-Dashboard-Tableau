@@ -43,7 +43,7 @@ This dashboard enables HR teams to make **data-driven decisions** to improve emp
 
 ## 🚀 How to View the Dashboard  
 - **Option 1:** Download the `.twbx` file from this repo and open it in Tableau Desktop  
-- **Option 2:** View it on Tableau Public → [View Dashboard](your-tableau-public-link)
+- **Option 2:** View it on Tableau Public → [View Dashboard](https://public.tableau.com/views/HRDashboardAnalytics_17550669282010/HRAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
